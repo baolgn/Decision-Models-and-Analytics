@@ -1,4 +1,4 @@
-# Decision-Models-and-Analytics
+# MULT-UB 7: Decision Models and Analytics
 
 This repository showcases my implementation of projects and exercises from the *Decision Models and Analytics* course. While the course primarily focuses on Excel-based problem-solving, I have extended the lecture materials and homework by implementing them using tools such as **NumPy**, **PuLP**, **Matplotlib**, and **MATLAB** for additional practice and exploration of optimization and data analysis techniques.
 
